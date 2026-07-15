@@ -1,19 +1,20 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="banner.png" alt="Akash Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Akash</h1>
+  <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">B.Tech CSE Student | Learning C Programming, Python, C++, Java</h3>
 
+  <img src="banner.png" alt="Akash Banner" width="100%" />
+</p>
 ---
 <div align="center">
 <img src="./banner2.png" alt="GitHub Banner" width="100%" />
 
 </div>
-
 ---
-
+## 📊 GitHub Stats
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+---
 ## 🚀 About Me
 
 - 🎓 First Year B.Tech CSE Student
@@ -44,12 +45,6 @@
 | 🧩 Problem Solving | 25% |
 
 ---
-
-## 📊 GitHub Stats
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
----
-
 ## ✨ Quote
 
 > **"Consistency beats intensity. Learn something every day."**
