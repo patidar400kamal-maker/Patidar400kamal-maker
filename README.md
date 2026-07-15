@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- GitHub Profile Banner -->
 <p align="center">
   <img src="banner.png" alt="Akash Banner" width="100%" />
