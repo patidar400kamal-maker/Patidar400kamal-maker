@@ -7,29 +7,59 @@
 <h3 align="center">B.Tech CSE Student | Learning C Programming, Python, C++, Java</h3>
 
 ---
+<div align="center">
+<img src="./banner2.png" alt="GitHub Banner" width="100%" />
 
-### 💻 About Me
-- 🎓 B.Tech Computer Science Engineering Student  
-- 🌱 Currently learning **C Programming, Python, C++, and Java**  
-- ⚡ Passionate about coding, cybersecurity, and open-source projects  
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-C | Python | C++ | Java | Git | GitHub | VS Code | Linux
+## 🚀 About Me
 
+- 🎓 First Year B.Tech CSE Student
+- 💻 Learning C Programming
+- 🌱 Learning Git & GitHub
+- 🧩 Improving Problem Solving
+- 🎯 Goal: Become a Software Engineer
 
-<!--
-**patidar400kamal-maker/Patidar400kamal-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming
+- Git & GitHub
+- Problem Solving
+- HTML
+- CSS
+
+---
+
+## 📈 Learning Progress
+
+| Skill | Progress |
+|-------|----------|
+| 🎓 First Year B.Tech CSE | 50% |
+| 💻 C Programming | 40% |
+| 🌱 Git & GitHub | 30% |
+| 🧩 Problem Solving | 25% |
+
+---
+
+## 📊 GitHub Stats
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+---
+
+## ✨ Quote
+
+> **"Consistency beats intensity. Learn something every day."**
+
+### 💙 Focus today. Achieve tomorrow.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
