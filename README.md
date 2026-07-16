@@ -1,7 +1,8 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">B.Tech CSE Student | Learning C Programming, Python, C++, Java</h3>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Akash;B.Tech+CSE+Student;Learning+C+Programming;Exploring+Git+%26+GitHub;Future+Software+Engineer+%F0%9F%9A%80" />
+</p>
+<h3 align="center">Learning C Programming, Python, C++, Java</h3>
 
   <img src="banner.png" alt="Akash Banner" width="100%" />
 </p>
