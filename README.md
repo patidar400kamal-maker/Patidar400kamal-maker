@@ -12,10 +12,21 @@
 
 </div>
 ---
-## 📊 GitHub Stats
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<div align="left">
+<h2># 📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patidar400kamal-maker&show_icons=true&theme=tokyonight" />
 </p>
----
+
+<h2># 🔥 GitHub Streak</h2>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=patidar400kamal-maker&theme=tokyonight"/>
+
+</p>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -59,7 +70,7 @@
 
 ---
 
-<div align="center">
+
 
 ### ⭐ Thanks for visiting my profile!
 
