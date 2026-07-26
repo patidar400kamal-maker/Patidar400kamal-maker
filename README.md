@@ -11,6 +11,7 @@
 <img src="./banner2.png" alt="GitHub Banner" width="100%" />
 
 </div>
+<img src="./banner3.png" alt="Github Contribution Graph Banner" width="100% />
 ---
 <div align="left">
 <h2># 📊 GitHub Stats</h2>
