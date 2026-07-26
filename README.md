@@ -26,12 +26,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=patidar400kamal-maker&theme=tokyonight"/>
 
 </p>
-
+## 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+---
 ## 🚀 About Me
 
 - 🎓 First Year B.Tech CSE Student
